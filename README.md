@@ -15,8 +15,9 @@ Goals
 - Become a professional web developer
 - Learn full stack development
 - Work in a tech company or freelance
+  
 
-   Learning Now
+Learning Now
   
 - Git & GitHub
 - JavaScript
